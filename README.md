@@ -1,4 +1,4 @@
-## Software Engineer | Front-End Mobile Developer
+### Front End Developer & Mobile
 
 
 Javascript/Typescript development enthusiast. 
